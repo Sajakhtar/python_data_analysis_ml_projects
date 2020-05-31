@@ -1,2 +1,2 @@
-# python_data_analysis_ml_projects
+# Python Data Analysis and Machine Learning Projects
 Example data analysis and machine learning projects using Python
